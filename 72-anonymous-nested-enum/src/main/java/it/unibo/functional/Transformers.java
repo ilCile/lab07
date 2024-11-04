@@ -69,7 +69,7 @@ public final class Transformers {
      * @return A flattened list with the elements of each collection in the input
      * @param <I> type of the collection elements
      */
-    public static <I> List<? extends I> flatten(final Iterable<? extends Collection<? extends I>> base) {
+    public static <I> List<? extends I> flatten(final Iterable<? extends Collection<? extends I>> base) {     
         return null;
     }
 
